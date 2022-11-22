@@ -1,9 +1,12 @@
 body {
   font-family: 'Times New Roman', Times, serif;
   background-color: lightsteelblue;
+  margin: 30px;
 }
 
 .title {
   text-align: center;
-  color: aqua;
+  font-size: 30px;
+  border: black 10px dotted;
+  background-color: white;
 }
