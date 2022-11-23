@@ -12,20 +12,13 @@ body {
   margin-bottom: 50px;
 }
 
-.image-container {
-  display: flex;
-  margin: 10px;
-  flex: 1;
-  gap: 20px;
-}
-
-.progressive-era {
-  height: 50px;
-  width: 50px;
+.images {
+  text-align: center;
+  padding-bottom: 50px;
 }
 
 .flex-container {
-  display:flex;
+  display: flex;
   border: black 5px solid;
   flex: 1;
 }
