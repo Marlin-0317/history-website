@@ -14,11 +14,18 @@ body {
 
 .flex-container {
   display:flex;
-  border: black 10px dotted;
+  border: black 5px solid;
+  flex: 1;
+}
+
+.flex-button{
   flex: 1;
 }
 
 .flex-container .courses {
   background-color: white;
   flex: 1;
+  border: black solid;
+  padding: 10px;
 }
+
