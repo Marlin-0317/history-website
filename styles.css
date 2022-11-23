@@ -1,6 +1,6 @@
 body {
   font-family: 'Times New Roman', Times, serif;
-  background-color: lightsteelblue;
+  background-color: #d0b7646c;
   margin: 30px;
 }
 
@@ -9,4 +9,16 @@ body {
   font-size: 30px;
   border: black 10px dotted;
   background-color: white;
+  margin-bottom: 50px;
+}
+
+.flex-container {
+  display:flex;
+  border: black 10px dotted;
+  flex: 1;
+}
+
+.flex-container .courses {
+  background-color: white;
+  flex: 1;
 }
